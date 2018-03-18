@@ -1,0 +1,944 @@
+Organisation Registration Agency
+================================
+
+
+
+The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a list of known identifier lists, including national company registers, NGO lists and international and multilateral lists - along with links to sources where specific organisation numbers and identifiers can be looked up.
+
+As of 17 July 2017 the Organisation Registration Agency codelist (now organisation identifier list) is maintained centrally by org-id.guide. Open data publishers can now locate organisation identifiers using this website. IATI replicates the list directly from org-id.guide with the exception of the XI-IATI codelist. IATI still maintains the XI-IATI organisation identifier list, which is used  when there are no other available lists that might be used to provide a stable organisation identifier.
+
+If an organisation identifier list that you wish to use cannot be found in org-id.guide, you can submit a direct request on Github (https://github.com/org-id/register/issues) or email contact@org-id.guide
+
+
+
+
+
+
+This is a :ref:`Non-Embedded codelist <non_embedded_codelist>`.
+
+
+
+
+Download this codelist
+----------------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - :ref:`CLv1 <codelist_api_1.04>`:
+     - :ref:`CLv2 <codelist_api_1.04>`:
+     - :ref:`CLv3 <codelist_api_1.04>`:
+
+   * - `CSV <../downloads/clv1/codelist/OrganisationRegistrationAgency.csv>`__
+     - `CSV <../downloads/clv2/csv/en/OrganisationRegistrationAgency.csv>`__
+     - `CSV <../downloads/clv3/csv/en/OrganisationRegistrationAgency.csv>`__
+
+   * - `JSON <../downloads/clv1/codelist/OrganisationRegistrationAgency.json>`__
+     - `JSON <../downloads/clv2/json/en/OrganisationRegistrationAgency.json>`__
+     - `JSON <../downloads/clv3/json/en/OrganisationRegistrationAgency.json>`__
+
+   * - `XML <../downloads/clv1/codelist/OrganisationRegistrationAgency.xml>`__
+     - `XML <../downloads/clv2/xml/OrganisationRegistrationAgency.xml>`__
+     - `XML <../downloads/clv3/xml/OrganisationRegistrationAgency.xml>`__
+
+`GitHub Source <https://github.com/IATI/IATI-Codelists-NonEmbedded/blob/master/xml/OrganisationRegistrationAgency.xml>`__
+
+Codes
+-----
+
+.. _OrganisationRegistrationAgency:
+.. list-table::
+   :header-rows: 1
+
+
+   * - Code
+     - Name
+     - Description
+     - Category
+     - URL
+     - Public Database?
+
+   
+
+   * - AF-CBR
+     - Afghanistan Central Business Registry
+     - Website not yet searchable
+     - :ref:`AF <Country>`
+     - http://acbr.gov.af/
+     - False
+
+   
+
+   * - AF-MOE
+     - Ministry of Economy
+     - 
+     - :ref:`AF <Country>`
+     - http://moec.gov.af/en
+     - True
+
+   
+
+   * - AR-CENOC
+     - The National Centre of Community Organisations (CENOC)
+     - The National Centre of Community Organisations oversees and manages the accreditation and categorization of Civil Society Organizations in Argentian.
+     - :ref:`AF <Country>`
+     - http://www.cenoc.gob.ar/
+     - True
+
+   
+
+   * - AU-ABN
+     - Australian Business Register
+     - 
+     - :ref:`AU <Country>`
+     - http://abr.business.gov.au/
+     - True
+
+   
+
+   * - AU-ACNC
+     - Australian Charities and Not-for-profits Commission
+     - 
+     - :ref:`AU <Country>`
+     - http://www.acnc.gov.au/ACNC/
+     - True
+
+   
+
+   * - BD-NAB
+     - Bangladesh NGO Affairs Bureau
+     - 
+     - :ref:`BD <Country>`
+     - http://114.129.9.31/welcome/ngo_profile
+     - True
+
+   
+
+   * - BE-BCE_KBO
+     - Banque Carrefour des entreprises / Kruispuntbank van ondernemingen
+     - 
+     - :ref:`BE <Country>`
+     - economie.fgov.be/fr/entreprises/BCE
+     - True
+
+   
+
+   * - BE-GTCF
+     - Au Greffe du Tribunal de Commerce Francophone de Bruxelles
+     - The Registry of the Francophone Brussels Commercial Court
+     - :ref:`BE <Country>`
+     - http://www.juridat.be/tribunal_commerce/bruxelles/index.htm
+     - False
+
+   
+
+   * - BW-CIPA
+     - The Companies and Intellectual Property Authority (CIPA)
+     - The Companies and Intellectual Property Authority (CIPA) of the Ministry of Trade and Industry in Botswana is mandated to register businesses and protect intellectual property rights through the administration of four pieces of legislation.
+     - :ref:`BW <Country>`
+     - http://www.mtinamesearch.gov.bw/search
+     - True
+
+   
+
+   * - CA-CRA_ACR
+     - Canadian Revenue Agency / Agence du revenu du Canada
+     - CRA_ACR is legal requirement for bilingual use
+     - :ref:`CA <Country>`
+     - http://www.cra-arc.gc.ca/
+     - True
+
+   
+
+   * - CH-FDJP
+     - Commercial Registry, Federal Office of Justice, Switzerland
+     - The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office.
+     - :ref:`CH <Country>`
+     - http://www.zefix.ch/
+     - True
+
+   
+
+   * - CN-SAIC
+     - State Administration for Industry and Commerce (SAIC)
+     - The database is only available in Chinese language
+     - :ref:`CN <Country>`
+     - http://gsxt.saic.gov.cn/
+     - True
+
+   
+
+   * - CO-CCB
+     - Bogota Chamber of Commerce
+     - The Bogota Chamber of Commerce is a private, non-for-profit organization whose goal is to foster a sustainable Bogota-Region in the long term, by promoting its residents' prosperity, through services which enhance and strengthen the enterprise capabilities present in the region, and which improve the business environment with an impact over public policies.
+     - :ref:`CO <Country>`
+     - http://www.ccb.org.co/
+     - False
+
+   
+
+   * - CZ-ICO
+     - Access to Registers of Economic Subjects / Entities (ARES)
+     - Public registers comprising: the Commercial Register, the Federal Register, the Register of Foundations, the Register’s Institute, and the Register of Public Service Companies. Information on companies is searchable in English and is free-of-charge.
+     - :ref:`CZ <Country>`
+     - http://wwwinfo.mfcr.cz/ares/ares_es.html.en
+     - True
+
+   
+
+   * - DK-CVR
+     - Danish Central Business Register
+     - The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.
+     - :ref:`DK <Country>`
+     - https://datacvr.virk.dk/data/
+     - True
+
+   
+
+   * - EE-RIK
+     - Centre of Registers and Information Systems (RIK)
+     - You can view the data related to you free-of-charge by logging in with your ID-card.
+     - :ref:`EE <Country>`
+     - http://www.rik.ee/en/e-business-register
+     - True
+
+   
+
+   * - EG-MOSS
+     - Ministry of Social Solidarity and Justice
+     - The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.
+     - :ref:`EG <Country>`
+     - http://www.moss.gov.eg/misa/ar-eg/
+     - False
+
+   
+
+   * - ES-DIR3
+     - Common Directory of Organizational Units and Offices - DIR3
+     - EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745
+     - :ref:`ES <Country>`
+     - http://administracionelectronica.gob.es/ctt/dir3/descargas
+     - True
+
+   
+
+   * - ET-MFA
+     - Ministry of Foreign Affairs
+     - Charities are registered but no openly searchable database yet available.
+     - :ref:`ET <Country>`
+     - http://www.mfa.gov.et/
+     - False
+
+   
+
+   * - ET-MOT
+     - Ministry of Trade (MOT)
+     - The Ministry of Trade is the official ministry to register a business in Ethiopia.
+     - :ref:`ET <Country>`
+     - http://www.mot.gov.et
+     - False
+
+   
+
+   * - FI-PRO
+     - Finnish Patent and Registration office
+     - 
+     - :ref:`FI <Country>`
+     - http://www.prh.fi/en/index.html
+     - True
+
+   
+
+   * - FR-INSEE
+     - The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques
+     - The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database
+     - :ref:`FR <Country>`
+     - http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm
+     - False
+
+   
+
+   * - FR-RCS
+     - Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry
+     - 
+     - :ref:`FR <Country>`
+     - http://www.infogreffe.fr
+     - True
+
+   
+
+   * - GB-CHC
+     - Charity Commission
+     - 
+     - :ref:`GB <Country>`
+     - http://www.charity-commission.gov.uk/
+     - True
+
+   
+
+   * - GB-COH
+     - Companies House
+     - 
+     - :ref:`GB <Country>`
+     - http://www.companieshouse.gov.uk/
+     - True
+
+   
+
+   * - GB-EDU
+     - Edubase, by the Department of Education
+     - Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales
+     - :ref:`GB <Country>`
+     - http://www.education.gov.uk/edubase/home.xhtml
+     - True
+
+   
+
+   * - GB-GOR
+     - UK Government Organisation Register
+     - The Government Organisation Register is an authoritative source of government organisations who have a presence on GOV.UK. This register includes ministerial departments and executive agencies but does not include classifications (e.g. arms length bodies) or any form of organisational hierarchy.
+     - :ref:`GB <Country>`
+     - http://government-organisation.alpha.openregister.org
+     - True
+
+   
+
+   * - GB-GOV
+     - UK Government Departments Reference Numbers
+     - Codes for use by IATI for UK Government Departments.
+     - :ref:`GB <Country>`
+     - http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies
+     - True
+
+   
+
+   * - GB-GOVUK
+     - UK Government Departments, Agencies & Public Bodies
+     - Use the final segment of the url (below /organisations) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase.
+     - :ref:`GB <Country>`
+     - https://www.gov.uk/government/organisations
+     - True
+
+   
+
+   * - GB-NIC
+     - The Charity Commission for Northern Ireland
+     - 
+     - :ref:`GB <Country>`
+     - http://www.charitycommissionni.org.uk/
+     - True
+
+   
+
+   * - GB-REV
+     - HM Revenue and Customs
+     - 
+     - :ref:`GB <Country>`
+     - http://www.hmrc.gov.uk/
+     - False
+
+   
+
+   * - GB-SC
+     - Scottish Charity Register
+     - 
+     - :ref:`GB <Country>`
+     - http://www.oscr.org.uk/
+     - True
+
+   
+
+   * - GB-UKPRN
+     - UK Register of Learning Providers
+     - 
+     - :ref:`GB <Country>`
+     - https://www.ukrlp.co.uk/
+     - True
+
+   
+
+   * - GG-RCE
+     - The Guernsey Registry at the Department of Commerce and Employment
+     - 
+     - :ref:`GG <Country>`
+     - http://www.guernseyregistry.com/charities
+     - True
+
+   
+
+   * - GH-DSW
+     - Department of Social Welfare
+     - 
+     - :ref:`GH <Country>`
+     - 
+     - False
+
+   
+
+   * - HK-CR
+     - Hong Kong Companies Registry
+     - Hong Kong Companies Registry registers local and non-Hong Kong companies and statutory returns, de-registers defunct solvent companies and provides the public with services and facilities for inspecting and obtaining company information kept by the Registry.
+     - :ref:`HK <Country>`
+     - http://www.cr.gov.hk/en/home
+     - True
+
+   
+
+   * - ID-KDN
+     - Ministry Home affairs/ Kementerian Dalam Negeri
+     - NGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri
+     - :ref:`ID <Country>`
+     - http://www.kemendagri.go.id/media/filemanager/2011/02/22/d/a/daf.ormas___lsm_2010.pdf
+     - True
+
+   
+
+   * - ID-KHH
+     - Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak
+     - Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak
+     - :ref:`ID <Country>`
+     - http://www.kemenkumham.go.id/
+     - False
+
+   
+
+   * - ID-KLN
+     - Ministry of Foreign affairs/ Kementerian Luar Negeri
+     - International NGO registration is done through Ministry of Foreign affairs/ Kementerian Luar Negeri
+     - :ref:`ID <Country>`
+     - http://www.kemlu.go.id/
+     - False
+
+   
+
+   * - ID-PRO
+     - NGOs registered at Provinicial Level
+     - Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements. Website is just one example
+     - :ref:`ID <Country>`
+     - http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru
+     - False
+
+   
+
+   * - IE-CHY
+     - Irish Register of Charities
+     - 
+     - :ref:`IE <Country>`
+     - 
+     - False
+
+   
+
+   * - IE-CRO
+     - Irish CompaniesRegistration Office
+     - 
+     - :ref:`IE <Country>`
+     - http://www.cro.ie/
+     - True
+
+   
+
+   * - IM-CR
+     - Isle of Man Companies Registry
+     - 
+     - :ref:`IM <Country>`
+     - http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615
+     - True
+
+   
+
+   * - IM-GR
+     - Isle of Man Index of Registered Charities
+     - 
+     - :ref:`IM <Country>`
+     - http://www.gov.im/registries/courts/charities/
+     - True
+
+   
+
+   * - IN-MCA
+     - Government of India, Minstry of Corporate Affairs
+     - MCA regulates corporate affairs in India through the Companies Act, 1956, 2013 and other allied Acts, Bills and Rules.
+     - :ref:`IN <Country>`
+     - http://www.mca.gov.in/
+     - True
+
+   
+
+   * - IN-MHA
+     - Ministry of Home Affairs, Government of India
+     - Government of India Ministry of Home Affairs Foreigners Division provides registration under the Foreign Contribution (Regulation) Act (FCRA).
+     - :ref:`IN <Country>`
+     - https://fcraonline.nic.in/home/index.aspx
+     - True
+
+   
+
+   * - JE-CR
+     - Jersey Companies Registry
+     - 
+     - :ref:`JE <Country>`
+     - http://www.jerseyfsc.org/registry/
+     - True
+
+   
+
+   * - JE-OAC
+     - Jersey Overseas Aid Commission
+     - 
+     - :ref:`JE <Country>`
+     - http://www.jerseyoverseasaid.org.je/
+     - False
+
+   
+
+   * - KE-NCB
+     - NGO's Coordination Board
+     - 
+     - :ref:`KE <Country>`
+     - http://www.ngobureau.or.ke/
+     - True
+
+   
+
+   * - KE-RCO
+     - Registar of Companies
+     - 
+     - :ref:`KE <Country>`
+     - http://www.attorney-general.go.ke/
+     - False
+
+   
+
+   * - KE-RSO
+     - Registrar of Societies
+     - 
+     - :ref:`KE <Country>`
+     - http://www.attorney-general.go.ke/
+     - False
+
+   
+
+   * - LB-MOI
+     - Ministry of Interior
+     - The Ministry of Interior is the main registration body in Lebanon. All NGOs are required to register with the Ministry of Interior.
+     - :ref:`LB <Country>`
+     - http://www.interior.gov.lb/
+     - False
+
+   
+
+   * - LS-LCN
+     - Lesotho Council of Non Governmental Organisations
+     - 
+     - :ref:`LS <Country>`
+     - http://www.lcn.org.ls/
+     - False
+
+   
+
+   * - LV-RE
+     - Register of Enterprises of the Republic of Latvia
+     - Free of charge information includes type of legal entity; registered office; new or current name or trade name and previously registered or historical name or trade name; registration number; Single Euro Payment Area beneficiary identification code (if allocated); registration date; date of deletion of the legal entity from the register (or the date of reorganisation if the reason for the deletion is a reorganisation); deadline for registration of religious organisations that are subject to re-registration.
+     - :ref:`LV <Country>`
+     - http://www.ur.gov.lv/
+     - True
+
+   
+
+   * - ML-CCIM
+     - Chambre de Commerce et d'Industrie du Mali (CCIM)
+     - The Chamber of Commerce and Industry of Mali (CCIM) is responsible for the organization and professional representation of organisations and legal persons working in the various branches of commercial, industrial and service activities in Mali.
+     - :ref:`ML <Country>`
+     - http://www.cci.ml/
+     - False
+
+   
+
+   * - ML-NIF
+     - Numero d’Identification Fiscale
+     - Malian organisations use Numero-d-Identification-Fiscale (NIF) to identify taxpayers and facilitate the administration of the Malian tax affairs.
+     - :ref:`ML <Country>`
+     - http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF
+     - False
+
+   
+
+   * - MM-MHA
+     - Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations
+     - The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.
+     - :ref:`MM <Country>`
+     - No url for the ministry (as at 2/10/2013)
+     - False
+
+   
+
+   * - MW-CNM
+     - The Council for Non Governmental Organisations in Malawi
+     - 
+     - :ref:`MW <Country>`
+     - http://www.congoma.mw/index.html
+     - False
+
+   
+
+   * - MW-MRA
+     - Malawi Revenue Authority
+     - 
+     - :ref:`MW <Country>`
+     - http://www.mra.mw/
+     - False
+
+   
+
+   * - MW-NBM
+     - NGO Board of Malawi
+     - There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned
+     - :ref:`MW <Country>`
+     - http://ngoboardmalawi.mw/directory.php
+     - False
+
+   
+
+   * - MW-RG
+     - Registrar General, Department of Justice
+     - 
+     - :ref:`MW <Country>`
+     - 
+     - False
+
+   
+
+   * - MZ-MOJ
+     - Mozambique Ministry of Justice
+     - 
+     - :ref:`MZ <Country>`
+     - 
+     - False
+
+   
+
+   * - NG-CAC
+     - Nigerian Corporate Affairs Commission
+     - 
+     - :ref:`NG <Country>`
+     - http://new.cac.gov.ng/home/
+     - True
+
+   
+
+   * - NL-KVK
+     - Kamer van Koophandel
+     - 
+     - :ref:`NL <Country>`
+     - http://www.kvk.nl/
+     - True
+
+   
+
+   * - NO-BRC
+     - Brønnøysundregistrene
+     - 
+     - :ref:`NO <Country>`
+     - http://www.brreg.no/
+     - True
+
+   
+
+   * - NP-CRO
+     - Company Registrar Office
+     - 
+     - :ref:`NP <Country>`
+     - http://www.cro.gov.np/
+     - True
+
+   
+
+   * - NP-SWC
+     - NGO registration
+     - 
+     - :ref:`NP <Country>`
+     - http://www.swc.org.np/
+     - True
+
+   
+
+   * - PH-SEC
+     - Securities and Exchange Commission Philippines
+     - The Securities and Exchange Commission in the Philippines provides licenses so that corporations, partnerships or associations can transact business in the Philippines.
+     - :ref:`PH <Country>`
+     - http://www.sec.gov.ph/online-services/search-registered-companies/
+     - True
+
+   
+
+   * - PK-PCP
+     - Pakistan Centre for Philanthropy
+     - The PCP Certification Programme seeks to bring transparency, accountability and good governance in the nonprofit sector in Pakistan. The first initiative of its kind in South Asia; it involves the evaluation of a nonprofit organisation on standardised parameters of internal governance, financial management and programme delivery.
+     - :ref:`PK <Country>`
+     - https://drive.google.com/file/d/0B67B7u-xqLazZFhHTkUtUVVRWXc/view
+     - True
+
+   
+
+   * - PK-VSWA
+     - Pakistan Voluntary Social Welfare Agency
+     - All NGOs are required to register with their local Voluntary Social Welfare department
+     - :ref:`PK <Country>`
+     - No Website available
+     - False
+
+   
+
+   * - PL-REGON
+     - National Official Business Register
+     - Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the business register.
+     - :ref:`PL <Country>`
+     - http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/
+     - True
+
+   
+
+   * - PL-NIP
+     - Tax Identification Number
+     - Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the tax register.
+     - :ref:`PL <Country>`
+     - https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx
+     - True
+
+   
+
+   * - PL-KRS
+     - The National Court Register
+     - Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the court register.
+     - :ref:`PL <Country>`
+     - https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu
+     - True
+
+   
+
+   * - PS-MOI
+     - Ministry of Interior (MOI)
+     - It’s the official body to register Non-governmental organization in Palestine.
+     - :ref:`PS <Country>`
+     - http://www.moi.pna.ps/NGOs/List
+     - True
+
+   
+
+   * - RS-APR
+     - Serbian Business Registrations Agency (APR)
+     - The SBRA runs business registers as single, centralized, public electronic databases.
+     - :ref:`RS <Country>`
+     - http://www.apr.gov.rs/eng/Home.aspx
+     - True
+
+   
+
+   * - SE-BLV
+     - Bolagsverket / Swedish Companies Registration Office
+     - 
+     - :ref:`SE <Country>`
+     - http://www.bolagsverket.se/
+     - True
+
+   
+
+   * - SE-KK
+     - Legal, Financial and Administrative Services Agency (Kammarkollegiet)
+     - A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities.
+     - :ref:`SE <Country>`
+     - http://www.kammarkollegiet.se/en
+     - False
+
+   
+
+   * - SG-ACRA
+     - Accounting and Corporate Regulatory Authority (ACRA)
+     - The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore
+     - :ref:`SG <Country>`
+     - http://www.acra.gov.sg/
+     - True
+
+   
+
+   * - SK-ZRSR
+     - Slovakia Ministry Of Interior Trade Register
+     - Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (Živnostensky Register Slovenskej Republiky) and are allocated a unique registration number
+     - :ref:`SK <Country>`
+     - http://www.zrsr.sk/default.aspx?LANG=en
+     - True
+
+   
+
+   * - SS-RRC
+     - South Sudan Relief and Rehabilitation Commission
+     - The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan.
+     - :ref:`SS <Country>`
+     - http://www.goss-online.org/
+     - False
+
+   
+
+   * - TZ-BRLA
+     - Tanzania Business Registrations and Licensing Agency
+     - 
+     - :ref:`TZ <Country>`
+     - http://www.brela.go.tz/
+     - True
+
+   
+
+   * - UA-EDR
+     - United State Register, Ukraine
+     - 
+     - :ref:`UA <Country>`
+     - http://irc.gov.ua/ua/Poshuk-v-YeDR.html
+     - True
+
+   
+
+   * - UG-NGB
+     - NGO Board, Ministry of Internal Affairs
+     - 
+     - :ref:`UG <Country>`
+     - http://www.mia.go.ug/?page_id=62
+     - False
+
+   
+
+   * - UG-RSB
+     - Registration Services Bureau
+     - 
+     - :ref:`UG <Country>`
+     - http://www.ursb.go.ug/
+     - True
+
+   
+
+   * - US-DOS
+     - Corporation registration is the responsibility of each state (see link)
+     - 
+     - :ref:`US <Country>`
+     - http://www.companieshouse.gov.uk/links/usaLink.shtml
+     - False
+
+   
+
+   * - US-EIN
+     - Internal Revenue Service / Employer Identification Number
+     - 
+     - :ref:`US <Country>`
+     - http://www.irs.gov/businesses/small/article/0,,id=98350,00.html
+     - False
+
+   
+
+   * - US-USAGOV
+     - Index of U.S. Government Departments and Agencies
+     - Use the final segment of the url (below /federal and excluding the extension) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase.
+     - :ref:`US <Country>`
+     - http://www.usa.gov/directory/federal/index.shtml
+     - True
+
+   
+
+   * - XI-IATI
+     - International Aid Transparency Initiative Organisation Identifier
+     - XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.
+     - :ref:`XI <Country>`
+     - http://iatistandard.org/codelists/IATIOrganisationIdentifier/
+     - True
+
+   
+
+   * - XI-PB
+     - Public Bodies
+     - Public Bodies aims to provide a unique ID for every part of every government.
+     - :ref:`XI <Country>`
+     - http://publicbodies.org/
+     - True
+
+   
+
+   * - XM-DAC
+     - OECD Development Assistance Committee
+     - See Donor, Agency, and Delivery Channel codes
+     - :ref:`XM <Country>`
+     - http://www.oecd.org/dac/stats/dacandcrscodelists.htm
+     - True
+
+   
+
+   * - XM-OCHA
+     - United Nations Office for the Coordination of Humanitarian Affairs
+     - OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies.
+     - :ref:`XM <Country>`
+     - http://www.unocha.org
+     - True
+
+   
+
+   * - ZA-CIP
+     - Companies and Intellectual Property Commission (CIPC)
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.cipro.gov.za/
+     - True
+
+   
+
+   * - ZA-NPO
+     - Association for Non-Profit Organisations
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.npo.gov.za/
+     - True
+
+   
+
+   * - ZA-PBO
+     - SA Revenue Service Tax Exemption Unit / Public Benefit Organisations
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.sars.gov.za/home.asp?pid=170
+     - False
+
+   
+
+   * - ZM-NRB
+     - Non Governmental Organisation Registration Board
+     - 
+     - :ref:`ZM <Country>`
+     - 
+     - False
+
+   
+
+   * - ZM-PCR
+     - Patents and Companies Registration Agency
+     - 
+     - :ref:`ZM <Country>`
+     - http://www.pacra.org.zm/
+     - False
+
+   
+
+   * - ZW-PVO
+     - Private Voluntary Organisations Council
+     - 
+     - :ref:`ZW <Country>`
+     - 
+     - False
+
+   
+
+   * - ZW-ROD
+     - Registrar of Deeds
+     - 
+     - :ref:`ZW <Country>`
+     - 
+     - False
+
+   
+

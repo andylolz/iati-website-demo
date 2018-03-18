@@ -1,0 +1,944 @@
+Organisation Registration Agency
+================================
+
+
+
+The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a list of known identifier lists, including national company registers, NGO lists and international and multilateral lists - along with links to sources where specific organisation numbers and identifiers can be looked up.
+
+As of 17 July 2017 the Organisation Registration Agency codelist (now organisation identifier list) is maintained centrally by org-id.guide. Open data publishers can now locate organisation identifiers using this website. IATI replicates the list directly from org-id.guide with the exception of the XI-IATI codelist. IATI still maintains the XI-IATI organisation identifier list, which is used  when there are no other available lists that might be used to provide a stable organisation identifier.
+
+If an organisation identifier list that you wish to use cannot be found in org-id.guide, you can submit a direct request on Github (https://github.com/org-id/register/issues) or email contact@org-id.guide
+
+
+
+
+
+
+This is a :ref:`Non-Embedded codelist <non_embedded_codelist>`.
+
+
+
+
+Download this codelist
+----------------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - :ref:`CLv1 <codelist_api_1.04>`:
+     - :ref:`CLv2 <codelist_api_1.04>`:
+     - :ref:`CLv3 <codelist_api_1.04>`:
+
+   * - `CSV <../downloads/clv1/codelist/OrganisationRegistrationAgency.csv>`__
+     - `CSV <../downloads/clv2/csv/fr/OrganisationRegistrationAgency.csv>`__
+     - `CSV <../downloads/clv3/csv/fr/OrganisationRegistrationAgency.csv>`__
+
+   * - `JSON <../downloads/clv1/codelist/OrganisationRegistrationAgency.json>`__
+     - `JSON <../downloads/clv2/json/fr/OrganisationRegistrationAgency.json>`__
+     - `JSON <../downloads/clv3/json/fr/OrganisationRegistrationAgency.json>`__
+
+   * - `XML <../downloads/clv1/codelist/OrganisationRegistrationAgency.xml>`__
+     - `XML <../downloads/clv2/xml/OrganisationRegistrationAgency.xml>`__
+     - `XML <../downloads/clv3/xml/OrganisationRegistrationAgency.xml>`__
+
+`GitHub Source <https://github.com/IATI/IATI-Codelists-NonEmbedded/blob/master/xml/OrganisationRegistrationAgency.xml>`__
+
+Codes
+-----
+
+.. _OrganisationRegistrationAgency:
+.. list-table::
+   :header-rows: 1
+
+
+   * - Code
+     - Name
+     - Description
+     - Category
+     - URL
+     - Public Database?
+
+   
+
+   * - AF-CBR
+     - 
+     - 
+     - :ref:`AF <Country>`
+     - http://acbr.gov.af/
+     - False
+
+   
+
+   * - AF-MOE
+     - 
+     - 
+     - :ref:`AF <Country>`
+     - http://moec.gov.af/en
+     - True
+
+   
+
+   * - AR-CENOC
+     - 
+     - 
+     - :ref:`AF <Country>`
+     - http://www.cenoc.gob.ar/
+     - True
+
+   
+
+   * - AU-ABN
+     - 
+     - 
+     - :ref:`AU <Country>`
+     - http://abr.business.gov.au/
+     - True
+
+   
+
+   * - AU-ACNC
+     - 
+     - 
+     - :ref:`AU <Country>`
+     - http://www.acnc.gov.au/ACNC/
+     - True
+
+   
+
+   * - BD-NAB
+     - 
+     - 
+     - :ref:`BD <Country>`
+     - http://114.129.9.31/welcome/ngo_profile
+     - True
+
+   
+
+   * - BE-BCE_KBO
+     - 
+     - 
+     - :ref:`BE <Country>`
+     - economie.fgov.be/fr/entreprises/BCE
+     - True
+
+   
+
+   * - BE-GTCF
+     - 
+     - 
+     - :ref:`BE <Country>`
+     - http://www.juridat.be/tribunal_commerce/bruxelles/index.htm
+     - False
+
+   
+
+   * - BW-CIPA
+     - 
+     - 
+     - :ref:`BW <Country>`
+     - http://www.mtinamesearch.gov.bw/search
+     - True
+
+   
+
+   * - CA-CRA_ACR
+     - 
+     - 
+     - :ref:`CA <Country>`
+     - http://www.cra-arc.gc.ca/
+     - True
+
+   
+
+   * - CH-FDJP
+     - 
+     - 
+     - :ref:`CH <Country>`
+     - http://www.zefix.ch/
+     - True
+
+   
+
+   * - CN-SAIC
+     - 
+     - 
+     - :ref:`CN <Country>`
+     - http://gsxt.saic.gov.cn/
+     - True
+
+   
+
+   * - CO-CCB
+     - 
+     - 
+     - :ref:`CO <Country>`
+     - http://www.ccb.org.co/
+     - False
+
+   
+
+   * - CZ-ICO
+     - 
+     - 
+     - :ref:`CZ <Country>`
+     - http://wwwinfo.mfcr.cz/ares/ares_es.html.en
+     - True
+
+   
+
+   * - DK-CVR
+     - 
+     - 
+     - :ref:`DK <Country>`
+     - https://datacvr.virk.dk/data/
+     - True
+
+   
+
+   * - EE-RIK
+     - 
+     - 
+     - :ref:`EE <Country>`
+     - http://www.rik.ee/en/e-business-register
+     - True
+
+   
+
+   * - EG-MOSS
+     - 
+     - 
+     - :ref:`EG <Country>`
+     - http://www.moss.gov.eg/misa/ar-eg/
+     - False
+
+   
+
+   * - ES-DIR3
+     - 
+     - 
+     - :ref:`ES <Country>`
+     - http://administracionelectronica.gob.es/ctt/dir3/descargas
+     - True
+
+   
+
+   * - ET-MFA
+     - 
+     - 
+     - :ref:`ET <Country>`
+     - http://www.mfa.gov.et/
+     - False
+
+   
+
+   * - ET-MOT
+     - 
+     - 
+     - :ref:`ET <Country>`
+     - http://www.mot.gov.et
+     - False
+
+   
+
+   * - FI-PRO
+     - 
+     - 
+     - :ref:`FI <Country>`
+     - http://www.prh.fi/en/index.html
+     - True
+
+   
+
+   * - FR-INSEE
+     - 
+     - 
+     - :ref:`FR <Country>`
+     - http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm
+     - False
+
+   
+
+   * - FR-RCS
+     - 
+     - 
+     - :ref:`FR <Country>`
+     - http://www.infogreffe.fr
+     - True
+
+   
+
+   * - GB-CHC
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.charity-commission.gov.uk/
+     - True
+
+   
+
+   * - GB-COH
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.companieshouse.gov.uk/
+     - True
+
+   
+
+   * - GB-EDU
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.education.gov.uk/edubase/home.xhtml
+     - True
+
+   
+
+   * - GB-GOR
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://government-organisation.alpha.openregister.org
+     - True
+
+   
+
+   * - GB-GOV
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies
+     - True
+
+   
+
+   * - GB-GOVUK
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - https://www.gov.uk/government/organisations
+     - True
+
+   
+
+   * - GB-NIC
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.charitycommissionni.org.uk/
+     - True
+
+   
+
+   * - GB-REV
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.hmrc.gov.uk/
+     - False
+
+   
+
+   * - GB-SC
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - http://www.oscr.org.uk/
+     - True
+
+   
+
+   * - GB-UKPRN
+     - 
+     - 
+     - :ref:`GB <Country>`
+     - https://www.ukrlp.co.uk/
+     - True
+
+   
+
+   * - GG-RCE
+     - 
+     - 
+     - :ref:`GG <Country>`
+     - http://www.guernseyregistry.com/charities
+     - True
+
+   
+
+   * - GH-DSW
+     - 
+     - 
+     - :ref:`GH <Country>`
+     - 
+     - False
+
+   
+
+   * - HK-CR
+     - 
+     - 
+     - :ref:`HK <Country>`
+     - http://www.cr.gov.hk/en/home
+     - True
+
+   
+
+   * - ID-KDN
+     - 
+     - 
+     - :ref:`ID <Country>`
+     - http://www.kemendagri.go.id/media/filemanager/2011/02/22/d/a/daf.ormas___lsm_2010.pdf
+     - True
+
+   
+
+   * - ID-KHH
+     - 
+     - 
+     - :ref:`ID <Country>`
+     - http://www.kemenkumham.go.id/
+     - False
+
+   
+
+   * - ID-KLN
+     - 
+     - 
+     - :ref:`ID <Country>`
+     - http://www.kemlu.go.id/
+     - False
+
+   
+
+   * - ID-PRO
+     - 
+     - 
+     - :ref:`ID <Country>`
+     - http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru
+     - False
+
+   
+
+   * - IE-CHY
+     - 
+     - 
+     - :ref:`IE <Country>`
+     - 
+     - False
+
+   
+
+   * - IE-CRO
+     - 
+     - 
+     - :ref:`IE <Country>`
+     - http://www.cro.ie/
+     - True
+
+   
+
+   * - IM-CR
+     - 
+     - 
+     - :ref:`IM <Country>`
+     - http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615
+     - True
+
+   
+
+   * - IM-GR
+     - 
+     - 
+     - :ref:`IM <Country>`
+     - http://www.gov.im/registries/courts/charities/
+     - True
+
+   
+
+   * - IN-MCA
+     - 
+     - 
+     - :ref:`IN <Country>`
+     - http://www.mca.gov.in/
+     - True
+
+   
+
+   * - IN-MHA
+     - 
+     - 
+     - :ref:`IN <Country>`
+     - https://fcraonline.nic.in/home/index.aspx
+     - True
+
+   
+
+   * - JE-CR
+     - 
+     - 
+     - :ref:`JE <Country>`
+     - http://www.jerseyfsc.org/registry/
+     - True
+
+   
+
+   * - JE-OAC
+     - 
+     - 
+     - :ref:`JE <Country>`
+     - http://www.jerseyoverseasaid.org.je/
+     - False
+
+   
+
+   * - KE-NCB
+     - 
+     - 
+     - :ref:`KE <Country>`
+     - http://www.ngobureau.or.ke/
+     - True
+
+   
+
+   * - KE-RCO
+     - 
+     - 
+     - :ref:`KE <Country>`
+     - http://www.attorney-general.go.ke/
+     - False
+
+   
+
+   * - KE-RSO
+     - 
+     - 
+     - :ref:`KE <Country>`
+     - http://www.attorney-general.go.ke/
+     - False
+
+   
+
+   * - LB-MOI
+     - 
+     - 
+     - :ref:`LB <Country>`
+     - http://www.interior.gov.lb/
+     - False
+
+   
+
+   * - LS-LCN
+     - 
+     - 
+     - :ref:`LS <Country>`
+     - http://www.lcn.org.ls/
+     - False
+
+   
+
+   * - LV-RE
+     - 
+     - 
+     - :ref:`LV <Country>`
+     - http://www.ur.gov.lv/
+     - True
+
+   
+
+   * - ML-CCIM
+     - 
+     - 
+     - :ref:`ML <Country>`
+     - http://www.cci.ml/
+     - False
+
+   
+
+   * - ML-NIF
+     - 
+     - 
+     - :ref:`ML <Country>`
+     - http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF
+     - False
+
+   
+
+   * - MM-MHA
+     - 
+     - 
+     - :ref:`MM <Country>`
+     - No url for the ministry (as at 2/10/2013)
+     - False
+
+   
+
+   * - MW-CNM
+     - 
+     - 
+     - :ref:`MW <Country>`
+     - http://www.congoma.mw/index.html
+     - False
+
+   
+
+   * - MW-MRA
+     - 
+     - 
+     - :ref:`MW <Country>`
+     - http://www.mra.mw/
+     - False
+
+   
+
+   * - MW-NBM
+     - 
+     - 
+     - :ref:`MW <Country>`
+     - http://ngoboardmalawi.mw/directory.php
+     - False
+
+   
+
+   * - MW-RG
+     - 
+     - 
+     - :ref:`MW <Country>`
+     - 
+     - False
+
+   
+
+   * - MZ-MOJ
+     - 
+     - 
+     - :ref:`MZ <Country>`
+     - 
+     - False
+
+   
+
+   * - NG-CAC
+     - 
+     - 
+     - :ref:`NG <Country>`
+     - http://new.cac.gov.ng/home/
+     - True
+
+   
+
+   * - NL-KVK
+     - 
+     - 
+     - :ref:`NL <Country>`
+     - http://www.kvk.nl/
+     - True
+
+   
+
+   * - NO-BRC
+     - 
+     - 
+     - :ref:`NO <Country>`
+     - http://www.brreg.no/
+     - True
+
+   
+
+   * - NP-CRO
+     - 
+     - 
+     - :ref:`NP <Country>`
+     - http://www.cro.gov.np/
+     - True
+
+   
+
+   * - NP-SWC
+     - 
+     - 
+     - :ref:`NP <Country>`
+     - http://www.swc.org.np/
+     - True
+
+   
+
+   * - PH-SEC
+     - 
+     - 
+     - :ref:`PH <Country>`
+     - http://www.sec.gov.ph/online-services/search-registered-companies/
+     - True
+
+   
+
+   * - PK-PCP
+     - 
+     - 
+     - :ref:`PK <Country>`
+     - https://drive.google.com/file/d/0B67B7u-xqLazZFhHTkUtUVVRWXc/view
+     - True
+
+   
+
+   * - PK-VSWA
+     - 
+     - 
+     - :ref:`PK <Country>`
+     - No Website available
+     - False
+
+   
+
+   * - PL-REGON
+     - 
+     - 
+     - :ref:`PL <Country>`
+     - http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/
+     - True
+
+   
+
+   * - PL-NIP
+     - 
+     - 
+     - :ref:`PL <Country>`
+     - https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx
+     - True
+
+   
+
+   * - PL-KRS
+     - 
+     - 
+     - :ref:`PL <Country>`
+     - https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu
+     - True
+
+   
+
+   * - PS-MOI
+     - 
+     - 
+     - :ref:`PS <Country>`
+     - http://www.moi.pna.ps/NGOs/List
+     - True
+
+   
+
+   * - RS-APR
+     - 
+     - 
+     - :ref:`RS <Country>`
+     - http://www.apr.gov.rs/eng/Home.aspx
+     - True
+
+   
+
+   * - SE-BLV
+     - 
+     - 
+     - :ref:`SE <Country>`
+     - http://www.bolagsverket.se/
+     - True
+
+   
+
+   * - SE-KK
+     - 
+     - 
+     - :ref:`SE <Country>`
+     - http://www.kammarkollegiet.se/en
+     - False
+
+   
+
+   * - SG-ACRA
+     - 
+     - 
+     - :ref:`SG <Country>`
+     - http://www.acra.gov.sg/
+     - True
+
+   
+
+   * - SK-ZRSR
+     - 
+     - 
+     - :ref:`SK <Country>`
+     - http://www.zrsr.sk/default.aspx?LANG=en
+     - True
+
+   
+
+   * - SS-RRC
+     - 
+     - 
+     - :ref:`SS <Country>`
+     - http://www.goss-online.org/
+     - False
+
+   
+
+   * - TZ-BRLA
+     - 
+     - 
+     - :ref:`TZ <Country>`
+     - http://www.brela.go.tz/
+     - True
+
+   
+
+   * - UA-EDR
+     - 
+     - 
+     - :ref:`UA <Country>`
+     - http://irc.gov.ua/ua/Poshuk-v-YeDR.html
+     - True
+
+   
+
+   * - UG-NGB
+     - 
+     - 
+     - :ref:`UG <Country>`
+     - http://www.mia.go.ug/?page_id=62
+     - False
+
+   
+
+   * - UG-RSB
+     - 
+     - 
+     - :ref:`UG <Country>`
+     - http://www.ursb.go.ug/
+     - True
+
+   
+
+   * - US-DOS
+     - 
+     - 
+     - :ref:`US <Country>`
+     - http://www.companieshouse.gov.uk/links/usaLink.shtml
+     - False
+
+   
+
+   * - US-EIN
+     - 
+     - 
+     - :ref:`US <Country>`
+     - http://www.irs.gov/businesses/small/article/0,,id=98350,00.html
+     - False
+
+   
+
+   * - US-USAGOV
+     - 
+     - 
+     - :ref:`US <Country>`
+     - http://www.usa.gov/directory/federal/index.shtml
+     - True
+
+   
+
+   * - XI-IATI
+     - 
+     - 
+     - :ref:`XI <Country>`
+     - http://iatistandard.org/codelists/IATIOrganisationIdentifier/
+     - True
+
+   
+
+   * - XI-PB
+     - 
+     - 
+     - :ref:`XI <Country>`
+     - http://publicbodies.org/
+     - True
+
+   
+
+   * - XM-DAC
+     - 
+     - 
+     - :ref:`XM <Country>`
+     - http://www.oecd.org/dac/stats/dacandcrscodelists.htm
+     - True
+
+   
+
+   * - XM-OCHA
+     - 
+     - 
+     - :ref:`XM <Country>`
+     - http://www.unocha.org
+     - True
+
+   
+
+   * - ZA-CIP
+     - 
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.cipro.gov.za/
+     - True
+
+   
+
+   * - ZA-NPO
+     - 
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.npo.gov.za/
+     - True
+
+   
+
+   * - ZA-PBO
+     - 
+     - 
+     - :ref:`ZA <Country>`
+     - http://www.sars.gov.za/home.asp?pid=170
+     - False
+
+   
+
+   * - ZM-NRB
+     - 
+     - 
+     - :ref:`ZM <Country>`
+     - 
+     - False
+
+   
+
+   * - ZM-PCR
+     - 
+     - 
+     - :ref:`ZM <Country>`
+     - http://www.pacra.org.zm/
+     - False
+
+   
+
+   * - ZW-PVO
+     - 
+     - 
+     - :ref:`ZW <Country>`
+     - 
+     - False
+
+   
+
+   * - ZW-ROD
+     - 
+     - 
+     - :ref:`ZW <Country>`
+     - 
+     - False
+
+   
+

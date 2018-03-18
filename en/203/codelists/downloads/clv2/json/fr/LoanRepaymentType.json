@@ -1,0 +1,1 @@
+{"attributes": {"category-codelist": null, "name": "LoanRepaymentType", "complete": "1"}, "data": [{"code": "1"}, {"code": "2"}, {"code": "3"}, {"code": "5"}], "metadata": {"url": "", "name": "Loan Repayment Type", "description": "used in additional CRS elements"}}

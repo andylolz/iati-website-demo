@@ -1,0 +1,1 @@
+{"attributes": {"category-codelist": null, "name": "BudgetStatus", "complete": "1"}, "data": [{"code": "1"}, {"code": "2"}], "metadata": {"url": "", "name": "Budget Status", "description": "Code to denote if the described budget is binding."}}

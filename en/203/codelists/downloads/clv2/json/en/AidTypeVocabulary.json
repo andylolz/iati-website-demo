@@ -1,0 +1,1 @@
+{"attributes": {"category-codelist": null, "name": "AidTypeVocabulary", "complete": "1"}, "data": [{"code": "1", "name": "OECD DAC"}], "metadata": {"url": "", "name": "Aid Type Vocabulary", "description": "The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type."}}

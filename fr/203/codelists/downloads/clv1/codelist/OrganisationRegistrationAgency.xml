@@ -1,0 +1,738 @@
+<codelist date-last-modified="2018-03-18T23:26:39.241626+00:00" version="" name="OrganisationRegistrationAgency" xml:lang="en">
+  <OrganisationRegistrationAgency>
+    <code>AF-CBR</code>
+    <name>Afghanistan Central Business Registry</name>
+    <language>en</language>
+    <description>Website not yet searchable </description>
+    <category>AF</category>
+    <category-name>AFGHANISTAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>AF-MOE</code>
+    <name>Ministry of Economy</name>
+    <language>en</language>
+    <category>AF</category>
+    <category-name>AFGHANISTAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>AR-CENOC</code>
+    <name>The National Centre of Community Organisations (CENOC)</name>
+    <language>en</language>
+    <description>The National Centre of Community Organisations oversees and manages the accreditation and categorization of Civil Society Organizations in Argentian.</description>
+    <category>AF</category>
+    <category-name>AFGHANISTAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>AU-ABN</code>
+    <name>Australian Business Register</name>
+    <language>en</language>
+    <category>AU</category>
+    <category-name>AUSTRALIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>AU-ACNC</code>
+    <name>Australian Charities and Not-for-profits Commission</name>
+    <language>en</language>
+    <category>AU</category>
+    <category-name>AUSTRALIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>BD-NAB</code>
+    <name>Bangladesh NGO Affairs Bureau</name>
+    <language>en</language>
+    <category>BD</category>
+    <category-name>BANGLADESH</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>BE-BCE_KBO</code>
+    <name>Banque Carrefour des entreprises / Kruispuntbank van ondernemingen</name>
+    <language>en</language>
+    <category>BE</category>
+    <category-name>BELGIUM</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>BE-GTCF</code>
+    <name>Au Greffe du Tribunal de Commerce Francophone de Bruxelles</name>
+    <language>en</language>
+    <description>The Registry of the Francophone Brussels Commercial Court</description>
+    <category>BE</category>
+    <category-name>BELGIUM</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>BW-CIPA</code>
+    <name>The Companies and Intellectual Property Authority (CIPA)</name>
+    <language>en</language>
+    <description>The Companies and Intellectual Property Authority (CIPA) of the Ministry of Trade and Industry in Botswana is mandated to register businesses and protect intellectual property rights through the administration of four pieces of legislation.</description>
+    <category>BW</category>
+    <category-name>BOTSWANA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CA-CRA_ACR</code>
+    <name>Canadian Revenue Agency / Agence du revenu du Canada</name>
+    <language>en</language>
+    <description>CRA_ACR is legal requirement for bilingual use</description>
+    <category>CA</category>
+    <category-name>CANADA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CH-FDJP</code>
+    <name>Commercial Registry, Federal Office of Justice, Switzerland</name>
+    <language>en</language>
+    <description>The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office.</description>
+    <category>CH</category>
+    <category-name>SWITZERLAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CN-SAIC</code>
+    <name>State Administration for Industry and Commerce (SAIC)</name>
+    <language>en</language>
+    <description>The database is only available in Chinese language</description>
+    <category>CN</category>
+    <category-name>CHINA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CO-CCB</code>
+    <name>Bogota Chamber of Commerce</name>
+    <language>en</language>
+    <description>The Bogota Chamber of Commerce is a private, non-for-profit organization whose goal is to foster a sustainable Bogota-Region in the long term, by promoting its residents' prosperity, through services which enhance and strengthen the enterprise capabilities present in the region, and which improve the business environment with an impact over public policies.</description>
+    <category>CO</category>
+    <category-name>COLOMBIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CZ-ICO</code>
+    <name>Access to Registers of Economic Subjects / Entities (ARES)</name>
+    <language>en</language>
+    <description>Public registers comprising: the Commercial Register, the Federal Register, the Register of Foundations, the Register&#8217;s Institute, and the Register of Public Service Companies. Information on companies is searchable in English and is free-of-charge.</description>
+    <category>CZ</category>
+    <category-name>CZECH REPUBLIC (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>DK-CVR</code>
+    <name>Danish Central Business Register</name>
+    <language>en</language>
+    <description>The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.</description>
+    <category>DK</category>
+    <category-name>DENMARK</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>EE-RIK</code>
+    <name>Centre of Registers and Information Systems (RIK)</name>
+    <language>en</language>
+    <description>You can view the data related to you free-of-charge by logging in with your ID-card.</description>
+    <category>EE</category>
+    <category-name>ESTONIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>EG-MOSS</code>
+    <name>Ministry of Social Solidarity and Justice</name>
+    <language>en</language>
+    <description>The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.</description>
+    <category>EG</category>
+    <category-name>EGYPT</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ES-DIR3</code>
+    <name>Common Directory of Organizational Units and Offices - DIR3</name>
+    <language>en</language>
+    <description>EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&amp;idElemento=2745</description>
+    <category>ES</category>
+    <category-name>SPAIN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ET-MFA</code>
+    <name>Ministry of Foreign Affairs</name>
+    <language>en</language>
+    <description>Charities are registered but no openly searchable database yet available. </description>
+    <category>ET</category>
+    <category-name>ETHIOPIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ET-MOT</code>
+    <name>Ministry of Trade (MOT)</name>
+    <language>en</language>
+    <description>The Ministry of Trade is the official ministry to register a business in Ethiopia.</description>
+    <category>ET</category>
+    <category-name>ETHIOPIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>FI-PRO</code>
+    <name>Finnish Patent and Registration office</name>
+    <language>en</language>
+    <category>FI</category>
+    <category-name>FINLAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>FR-INSEE</code>
+    <name>The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques</name>
+    <language>en</language>
+    <description>The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database</description>
+    <category>FR</category>
+    <category-name>FRANCE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>FR-RCS</code>
+    <name>Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry</name>
+    <language>en</language>
+    <category>FR</category>
+    <category-name>FRANCE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-CHC</code>
+    <name>Charity Commission</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-COH</code>
+    <name>Companies House</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-EDU</code>
+    <name>Edubase, by the Department of Education</name>
+    <language>en</language>
+    <description>Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales</description>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-GOR</code>
+    <name>UK Government Organisation Register</name>
+    <language>en</language>
+    <description>The Government Organisation Register is an authoritative source of government organisations who have a presence on GOV.UK. This register includes ministerial departments and executive agencies but does not include classifications (e.g. arms length bodies) or any form of organisational hierarchy.</description>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-GOV</code>
+    <name>UK Government Departments Reference Numbers</name>
+    <language>en</language>
+    <description>Codes for use by IATI for UK Government Departments.</description>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-GOVUK</code>
+    <name>UK Government Departments, Agencies &amp; Public Bodies</name>
+    <language>en</language>
+    <description>Use the final segment of the url (below /organisations) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </description>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-NIC</code>
+    <name>The Charity Commission for Northern Ireland</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-REV</code>
+    <name>HM Revenue and Customs</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-SC</code>
+    <name>Scottish Charity Register</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GB-UKPRN</code>
+    <name>UK Register of Learning Providers</name>
+    <language>en</language>
+    <category>GB</category>
+    <category-name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GG-RCE</code>
+    <name>The Guernsey Registry at the Department of Commerce and Employment</name>
+    <language>en</language>
+    <category>GG</category>
+    <category-name>GUERNSEY</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GH-DSW</code>
+    <name>Department of Social Welfare</name>
+    <language>en</language>
+    <category>GH</category>
+    <category-name>GHANA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>HK-CR</code>
+    <name>Hong Kong Companies Registry</name>
+    <language>en</language>
+    <description>Hong Kong Companies Registry registers local and non-Hong Kong companies and statutory returns, de-registers defunct solvent companies and provides the public with services and facilities for inspecting and obtaining company information kept by the Registry.</description>
+    <category>HK</category>
+    <category-name>HONG KONG</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ID-KDN</code>
+    <name>Ministry Home affairs/ Kementerian Dalam Negeri</name>
+    <language>en</language>
+    <description>NGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri</description>
+    <category>ID</category>
+    <category-name>INDONESIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ID-KHH</code>
+    <name>Ministry of Justice &amp; Human Rights/ Kementerian Hukum Dan Hak</name>
+    <language>en</language>
+    <description>Company registration is done through Ministry of Justice &amp; Human Rights/ Kementerian Hukum Dan Hak</description>
+    <category>ID</category>
+    <category-name>INDONESIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ID-KLN</code>
+    <name>Ministry of Foreign affairs/ Kementerian Luar Negeri</name>
+    <language>en</language>
+    <description>International NGO registration is done through Ministry of Foreign affairs/ Kementerian Luar Negeri</description>
+    <category>ID</category>
+    <category-name>INDONESIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ID-PRO</code>
+    <name>NGOs registered at Provinicial Level</name>
+    <language>en</language>
+    <description>Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements. Website is just one example</description>
+    <category>ID</category>
+    <category-name>INDONESIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IE-CHY</code>
+    <name>Irish Register of Charities</name>
+    <language>en</language>
+    <category>IE</category>
+    <category-name>IRELAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IE-CRO</code>
+    <name>Irish CompaniesRegistration Office</name>
+    <language>en</language>
+    <category>IE</category>
+    <category-name>IRELAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IM-CR</code>
+    <name>Isle of Man Companies Registry</name>
+    <language>en</language>
+    <category>IM</category>
+    <category-name>ISLE OF MAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IM-GR</code>
+    <name>Isle of Man Index of Registered Charities</name>
+    <language>en</language>
+    <category>IM</category>
+    <category-name>ISLE OF MAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IN-MCA</code>
+    <name>Government of India, Minstry of Corporate Affairs</name>
+    <language>en</language>
+    <description>MCA regulates corporate affairs in India through the Companies Act, 1956, 2013 and other allied Acts, Bills and Rules.</description>
+    <category>IN</category>
+    <category-name>INDIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IN-MHA</code>
+    <name>Ministry of Home Affairs, Government of India</name>
+    <language>en</language>
+    <description>Government of India Ministry of Home Affairs Foreigners Division provides registration under the Foreign Contribution (Regulation) Act (FCRA).</description>
+    <category>IN</category>
+    <category-name>INDIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>JE-CR</code>
+    <name>Jersey Companies Registry</name>
+    <language>en</language>
+    <category>JE</category>
+    <category-name>JERSEY</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>JE-OAC</code>
+    <name>Jersey Overseas Aid Commission</name>
+    <language>en</language>
+    <category>JE</category>
+    <category-name>JERSEY</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>KE-NCB</code>
+    <name>NGO's Coordination Board</name>
+    <language>en</language>
+    <category>KE</category>
+    <category-name>KENYA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>KE-RCO</code>
+    <name>Registar of Companies</name>
+    <language>en</language>
+    <category>KE</category>
+    <category-name>KENYA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>KE-RSO</code>
+    <name>Registrar of Societies</name>
+    <language>en</language>
+    <category>KE</category>
+    <category-name>KENYA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>LB-MOI</code>
+    <name>Ministry of Interior</name>
+    <language>en</language>
+    <description>The Ministry of Interior is the main registration body in Lebanon. All NGOs are required to register with the Ministry of Interior.</description>
+    <category>LB</category>
+    <category-name>LEBANON</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>LS-LCN</code>
+    <name>Lesotho Council of Non Governmental Organisations</name>
+    <language>en</language>
+    <category>LS</category>
+    <category-name>LESOTHO</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>LV-RE</code>
+    <name>Register of Enterprises of the Republic of Latvia</name>
+    <language>en</language>
+    <description>Free of charge information includes type of legal entity; registered office; new or current name or trade name and previously registered or historical name or trade name; registration number; Single Euro Payment Area beneficiary identification code (if allocated); registration date; date of deletion of the legal entity from the register (or the date of reorganisation if the reason for the deletion is a reorganisation); deadline for registration of religious organisations that are subject to re-registration.</description>
+    <category>LV</category>
+    <category-name>LATVIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ML-CCIM</code>
+    <name>Chambre de Commerce et d'Industrie du Mali (CCIM)</name>
+    <language>en</language>
+    <description>The Chamber of Commerce and Industry of Mali (CCIM) is responsible for the organization and professional representation of organisations and legal persons working in the various branches of commercial, industrial and service activities in Mali.</description>
+    <category>ML</category>
+    <category-name>MALI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ML-NIF</code>
+    <name>Numero d&#8217;Identification Fiscale </name>
+    <language>en</language>
+    <description>Malian organisations use Numero-d-Identification-Fiscale (NIF) to identify taxpayers and facilitate the administration of the Malian tax affairs.</description>
+    <category>ML</category>
+    <category-name>MALI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MM-MHA</code>
+    <name>Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations</name>
+    <language>en</language>
+    <description>The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.</description>
+    <category>MM</category>
+    <category-name>MYANMAR</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MW-CNM</code>
+    <name>The Council for Non Governmental Organisations in Malawi</name>
+    <language>en</language>
+    <category>MW</category>
+    <category-name>MALAWI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MW-MRA</code>
+    <name>Malawi Revenue Authority</name>
+    <language>en</language>
+    <category>MW</category>
+    <category-name>MALAWI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MW-NBM</code>
+    <name>NGO Board of Malawi</name>
+    <language>en</language>
+    <description>There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned</description>
+    <category>MW</category>
+    <category-name>MALAWI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MW-RG</code>
+    <name>Registrar General, Department of Justice</name>
+    <language>en</language>
+    <category>MW</category>
+    <category-name>MALAWI</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>MZ-MOJ</code>
+    <name>Mozambique Ministry of Justice</name>
+    <language>en</language>
+    <category>MZ</category>
+    <category-name>MOZAMBIQUE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NG-CAC</code>
+    <name>Nigerian Corporate Affairs Commission</name>
+    <language>en</language>
+    <category>NG</category>
+    <category-name>NIGERIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NL-KVK</code>
+    <name>Kamer van Koophandel</name>
+    <language>en</language>
+    <category>NL</category>
+    <category-name>NETHERLANDS (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NO-BRC</code>
+    <name>Br&#248;nn&#248;ysundregistrene</name>
+    <language>en</language>
+    <category>NO</category>
+    <category-name>NORWAY</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NP-CRO</code>
+    <name>Company Registrar Office</name>
+    <language>en</language>
+    <category>NP</category>
+    <category-name>NEPAL</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NP-SWC</code>
+    <name>NGO registration</name>
+    <language>en</language>
+    <category>NP</category>
+    <category-name>NEPAL</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PH-SEC</code>
+    <name>Securities and Exchange Commission Philippines</name>
+    <language>en</language>
+    <description>The Securities and Exchange Commission in the Philippines provides licenses so that corporations, partnerships or associations can transact business in the Philippines.</description>
+    <category>PH</category>
+    <category-name>PHILIPPINES (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PK-PCP</code>
+    <name>Pakistan Centre for Philanthropy</name>
+    <language>en</language>
+    <description>The PCP Certification Programme seeks to bring transparency, accountability and good governance in the nonprofit sector in Pakistan. The first initiative of its kind in South Asia; it involves the evaluation of a nonprofit organisation on standardised parameters of internal governance, financial management and programme delivery.</description>
+    <category>PK</category>
+    <category-name>PAKISTAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PK-VSWA</code>
+    <name>Pakistan Voluntary Social Welfare Agency</name>
+    <language>en</language>
+    <description>All NGOs are required to register with their local Voluntary Social Welfare department</description>
+    <category>PK</category>
+    <category-name>PAKISTAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PL-REGON</code>
+    <name>National Official Business Register</name>
+    <language>en</language>
+    <description>Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the business register.</description>
+    <category>PL</category>
+    <category-name>POLAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PL-NIP</code>
+    <name>Tax Identification Number</name>
+    <language>en</language>
+    <description>Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the tax register.</description>
+    <category>PL</category>
+    <category-name>POLAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PL-KRS</code>
+    <name>The National Court Register</name>
+    <language>en</language>
+    <description>Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the court register.</description>
+    <category>PL</category>
+    <category-name>POLAND</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PS-MOI</code>
+    <name>Ministry of Interior (MOI)</name>
+    <language>en</language>
+    <description>It&#8217;s the official body to register Non-governmental organization in Palestine.</description>
+    <category>PS</category>
+    <category-name>PALESTINIAN TERRITORY, OCCUPIED</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>RS-APR</code>
+    <name>Serbian Business Registrations Agency (APR)</name>
+    <language>en</language>
+    <description>The SBRA runs business registers as single, centralized, public electronic databases.</description>
+    <category>RS</category>
+    <category-name>SERBIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SE-BLV</code>
+    <name>Bolagsverket / Swedish Companies Registration Office</name>
+    <language>en</language>
+    <category>SE</category>
+    <category-name>SWEDEN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SE-KK</code>
+    <name>Legal, Financial and Administrative Services Agency (Kammarkollegiet)</name>
+    <language>en</language>
+    <description>A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities.</description>
+    <category>SE</category>
+    <category-name>SWEDEN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SG-ACRA</code>
+    <name>Accounting and Corporate Regulatory Authority (ACRA)</name>
+    <language>en</language>
+    <description>The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore</description>
+    <category>SG</category>
+    <category-name>SINGAPORE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SK-ZRSR</code>
+    <name>Slovakia Ministry Of Interior Trade Register</name>
+    <language>en</language>
+    <description>Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (&#381;ivnostensky Register Slovenskej Republiky) and are allocated a unique registration number</description>
+    <category>SK</category>
+    <category-name>SLOVAKIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SS-RRC</code>
+    <name>South Sudan Relief and Rehabilitation Commission</name>
+    <language>en</language>
+    <description>The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan.</description>
+    <category>SS</category>
+    <category-name>SOUTH SUDAN</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>TZ-BRLA</code>
+    <name>Tanzania Business Registrations and Licensing Agency</name>
+    <language>en</language>
+    <category>TZ</category>
+    <category-name>TANZANIA, UNITED REPUBLIC OF</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>UA-EDR</code>
+    <name>United State Register, Ukraine</name>
+    <language>en</language>
+    <category>UA</category>
+    <category-name>UKRAINE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>UG-NGB</code>
+    <name>NGO Board, Ministry of Internal Affairs</name>
+    <language>en</language>
+    <category>UG</category>
+    <category-name>UGANDA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>UG-RSB</code>
+    <name>Registration Services Bureau</name>
+    <language>en</language>
+    <category>UG</category>
+    <category-name>UGANDA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>US-DOS</code>
+    <name>Corporation registration is the responsibility of each state (see link)</name>
+    <language>en</language>
+    <category>US</category>
+    <category-name>UNITED STATES OF AMERICA (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>US-EIN</code>
+    <name>Internal Revenue Service / Employer Identification Number</name>
+    <language>en</language>
+    <category>US</category>
+    <category-name>UNITED STATES OF AMERICA (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>US-USAGOV</code>
+    <name>Index of U.S. Government Departments and Agencies</name>
+    <language>en</language>
+    <description>Use the final segment of the url (below /federal and excluding the extension) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </description>
+    <category>US</category>
+    <category-name>UNITED STATES OF AMERICA (THE)</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>XI-IATI</code>
+    <name>International Aid Transparency Initiative Organisation Identifier</name>
+    <language>en</language>
+    <description>XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.</description>
+    <category>XI</category>
+    <category-name></category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>XI-PB</code>
+    <name>Public Bodies</name>
+    <language>en</language>
+    <description>Public Bodies aims to provide a unique ID for every part of every government.</description>
+    <category>XI</category>
+    <category-name></category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>XM-DAC</code>
+    <name>OECD Development Assistance Committee</name>
+    <language>en</language>
+    <description>See Donor, Agency, and Delivery Channel codes</description>
+    <category>XM</category>
+    <category-name></category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>XM-OCHA</code>
+    <name>United Nations Office for the Coordination of Humanitarian Affairs</name>
+    <language>en</language>
+    <description>OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies.</description>
+    <category>XM</category>
+    <category-name></category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZA-CIP</code>
+    <name>Companies and Intellectual Property Commission (CIPC)</name>
+    <language>en</language>
+    <category>ZA</category>
+    <category-name>SOUTH AFRICA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZA-NPO</code>
+    <name>Association for Non-Profit Organisations</name>
+    <language>en</language>
+    <category>ZA</category>
+    <category-name>SOUTH AFRICA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZA-PBO</code>
+    <name>SA Revenue Service Tax Exemption Unit / Public Benefit Organisations</name>
+    <language>en</language>
+    <category>ZA</category>
+    <category-name>SOUTH AFRICA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZM-NRB</code>
+    <name>Non Governmental Organisation Registration Board</name>
+    <language>en</language>
+    <category>ZM</category>
+    <category-name>ZAMBIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZM-PCR</code>
+    <name>Patents and Companies Registration Agency</name>
+    <language>en</language>
+    <category>ZM</category>
+    <category-name>ZAMBIA</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZW-PVO</code>
+    <name>Private Voluntary Organisations Council</name>
+    <language>en</language>
+    <category>ZW</category>
+    <category-name>ZIMBABWE</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZW-ROD</code>
+    <name>Registrar of Deeds</name>
+    <language>en</language>
+    <category>ZW</category>
+    <category-name>ZIMBABWE</category-name>
+  </OrganisationRegistrationAgency>
+</codelist>

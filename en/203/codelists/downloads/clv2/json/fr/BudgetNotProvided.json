@@ -1,0 +1,1 @@
+{"attributes": {"category-codelist": null, "name": "BudgetNotProvided", "complete": "1"}, "data": [{"code": "1"}, {"code": "2"}, {"code": "3"}], "metadata": {"url": "", "name": "Budget Not Provided", "description": "A codelist defining the reasons why an activity does not contain any iati-activity/budget elements."}}
